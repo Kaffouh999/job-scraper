@@ -1,4 +1,6 @@
 package com.ensa.jobscrapper;// File: com.ensa.jobscrapper.JobOffersTable.java
+import com.ensa.jobscrapper.utils.Job;
+import com.ensa.jobscrapper.utils.JobDAO;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -56,10 +58,15 @@ public class JobOffersTable extends JScrollPane {
                 Scraper.jobOffers.sort(comparator);
             }
 
+            JobDAO jobDAO = new JobDAO();
+            jobDAO.createJobsTable();
+
 
             for (JobOffer offer : Scraper.jobOffers) {
                 Object[] rowData = {offer.name, offer.expLevel, offer.company, offer.salary, offer.link};
                 model.addRow(rowData);
+                Job job = new Job(offer.getOfferName(), offer.getCompany(), offer.salary, offer.expLevel, offer.link);
+                jobDAO.saveJob(job);
             }
         } catch (Exception e) {
             logger.error("Failed to update the table");
