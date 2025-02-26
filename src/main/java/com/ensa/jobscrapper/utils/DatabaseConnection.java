@@ -22,7 +22,7 @@ public class DatabaseConnection {
         try {
             Properties props = new Properties();
             InputStream input = DatabaseConnection.class.getClassLoader()
-                    .getResourceAsStream("database.properties");
+                    .getResourceAsStream("application.properties");
             props.load(input);
 
             HikariConfig config = new HikariConfig();

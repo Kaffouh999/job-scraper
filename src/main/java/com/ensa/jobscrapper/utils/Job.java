@@ -23,7 +23,12 @@ public class Job {
     }
 
     public Job(String offerName, String company, String salary, String expLevel, String link) {
-    }
+    this.name = offerName;
+    this.company = company;
+    this.salary = salary;
+    this.expLevel = expLevel;
+    this.link = link;
+}
 
     public Long getId() {
         return id;
