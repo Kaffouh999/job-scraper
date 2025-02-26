@@ -5293,3 +5293,130 @@ java.lang.NullPointerException: Cannot invoke "org.jsoup.nodes.Document.select(S
 2025-02-02 20:22:09 ERROR JobOffer:49 - Failed to get mean salary
 2025-02-02 20:22:09 ERROR JobOffer:49 - Failed to get mean salary
 2025-02-02 20:22:09 ERROR JobOffer:49 - Failed to get mean salary
+2025-02-26 21:58:36 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=java+developer
+2025-02-26 21:58:40 ERROR Scraper:138 - Failed to load data fromhttps://justjoin.it/with-salary_yes?keyword=java+developer
+2025-02-26 21:58:41 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+2025-02-26 21:58:41 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 21:58:41 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 21:58:41 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 21:58:42 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 21:58:42 INFO  Scraper:73 - Scraped offer Senior Fullstack (Angular&Java) Developer NEW from https://nofluffjobs.com/job/senior-fullstack-angular-java-developer-crestt-remote
+2025-02-26 21:58:42 INFO  Scraper:73 - Scraped offer Senior Java Developer - Remote NEW from https://nofluffjobs.com/job/senior-java-developer-remote-scalo-2
+2025-02-26 21:58:42 INFO  Scraper:73 - Scraped offer Java/Kotlin Developer NEW from https://nofluffjobs.com/job/java-kotlin-developer-jakdojade-remote
+2025-02-26 21:58:42 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+
+2025-02-26 21:58:47 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+2025-02-26 21:58:48 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 21:58:48 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 21:58:48 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 21:58:48 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 21:58:48 INFO  Scraper:73 - Scraped offer Senior Fullstack (Angular&Java) Developer NEW from https://nofluffjobs.com/job/senior-fullstack-angular-java-developer-crestt-remote
+2025-02-26 21:58:48 INFO  Scraper:73 - Scraped offer Senior Java Developer - Remote NEW from https://nofluffjobs.com/job/senior-java-developer-remote-scalo-2
+2025-02-26 21:58:49 INFO  Scraper:73 - Scraped offer Java/Kotlin Developer NEW from https://nofluffjobs.com/job/java-kotlin-developer-jakdojade-remote
+2025-02-26 21:58:49 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+
+2025-02-26 21:58:52 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=java+developer
+2025-02-26 21:58:52 INFO  Scraper:141 - Successfully scraped 0 job offers from https://justjoin.it/with-salary_yes?keyword=java+developer
+
+2025-02-26 22:00:34 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+2025-02-26 22:00:34 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 22:00:34 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 22:00:34 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 22:00:34 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 22:00:35 INFO  Scraper:73 - Scraped offer Senior Fullstack (Angular&Java) Developer NEW from https://nofluffjobs.com/job/senior-fullstack-angular-java-developer-crestt-remote
+2025-02-26 22:00:35 INFO  Scraper:73 - Scraped offer Senior Java Developer - Remote NEW from https://nofluffjobs.com/job/senior-java-developer-remote-scalo-2
+2025-02-26 22:00:35 INFO  Scraper:73 - Scraped offer Java/Kotlin Developer NEW from https://nofluffjobs.com/job/java-kotlin-developer-jakdojade-remote
+2025-02-26 22:00:35 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+
+2025-02-26 22:00:38 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=java+developer
+2025-02-26 22:00:38 INFO  Scraper:141 - Successfully scraped 0 job offers from https://justjoin.it/with-salary_yes?keyword=java+developer
+
+2025-02-26 22:00:43 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=
+2025-02-26 22:00:45 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?
+2025-02-26 22:00:46 ERROR Scraper:138 - Failed to load data fromhttps://justjoin.it/with-salary_yes?
+2025-02-26 22:01:07 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=
+2025-02-26 22:01:09 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?
+2025-02-26 22:01:11 ERROR Scraper:138 - Failed to load data fromhttps://justjoin.it/with-salary_yes?
+2025-02-26 22:01:17 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=
+2025-02-26 22:01:20 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?
+2025-02-26 22:01:22 ERROR Scraper:138 - Failed to load data fromhttps://justjoin.it/with-salary_yes?
+2025-02-26 22:01:35 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27developer%27%20
+2025-02-26 22:01:35 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 22:01:35 INFO  Scraper:73 - Scraped offer Fullstack Developer NEW from https://nofluffjobs.com/job/fullstack-developer-avenga-remote-33
+2025-02-26 22:01:35 INFO  Scraper:73 - Scraped offer Data Analyst / BI developer / Analytics Engineer NEW from https://nofluffjobs.com/job/data-analyst-bi-developer-analytics-engineer-justpoint-remote
+2025-02-26 22:01:36 INFO  Scraper:73 - Scraped offer Senior .NET Developer NEW from https://nofluffjobs.com/job/senior-net-developer-avenga-lodz-5
+2025-02-26 22:01:36 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 22:01:36 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 22:01:36 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 22:01:36 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27developer%27%20
+
+2025-02-26 22:01:37 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=developer
+2025-02-26 22:01:37 INFO  Scraper:141 - Successfully scraped 0 job offers from https://justjoin.it/with-salary_yes?keyword=developer
+
+2025-02-26 22:12:03 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27developer%27%20
+2025-02-26 22:12:03 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 22:12:03 INFO  Scraper:73 - Scraped offer Fullstack Developer NEW from https://nofluffjobs.com/job/fullstack-developer-avenga-remote-33
+2025-02-26 22:12:03 INFO  Scraper:73 - Scraped offer Data Analyst / BI developer / Analytics Engineer NEW from https://nofluffjobs.com/job/data-analyst-bi-developer-analytics-engineer-justpoint-remote
+2025-02-26 22:12:03 INFO  Scraper:73 - Scraped offer Senior .NET Developer NEW from https://nofluffjobs.com/job/senior-net-developer-avenga-lodz-5
+2025-02-26 22:12:04 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 22:12:04 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 22:12:04 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 22:12:04 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27developer%27%20
+
+2025-02-26 22:12:06 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=developer
+2025-02-26 22:12:06 INFO  Scraper:141 - Successfully scraped 0 job offers from https://justjoin.it/with-salary_yes?keyword=developer
+
+2025-02-26 22:14:07 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+2025-02-26 22:14:07 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 22:14:07 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 22:14:07 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 22:14:07 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 22:14:08 INFO  Scraper:73 - Scraped offer Senior Fullstack (Angular&Java) Developer NEW from https://nofluffjobs.com/job/senior-fullstack-angular-java-developer-crestt-remote
+2025-02-26 22:14:08 INFO  Scraper:73 - Scraped offer Senior Java Developer - Remote NEW from https://nofluffjobs.com/job/senior-java-developer-remote-scalo-2
+2025-02-26 22:14:08 INFO  Scraper:73 - Scraped offer Java/Kotlin Developer NEW from https://nofluffjobs.com/job/java-kotlin-developer-jakdojade-remote
+2025-02-26 22:14:08 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+
+2025-02-26 22:14:09 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=java+developer
+2025-02-26 22:14:09 INFO  Scraper:141 - Successfully scraped 0 job offers from https://justjoin.it/with-salary_yes?keyword=java+developer
+
+2025-02-26 22:14:44 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+2025-02-26 22:14:44 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 22:14:44 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 22:14:44 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 22:14:44 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 22:14:45 INFO  Scraper:73 - Scraped offer Senior Fullstack (Angular&Java) Developer NEW from https://nofluffjobs.com/job/senior-fullstack-angular-java-developer-crestt-remote
+2025-02-26 22:14:45 INFO  Scraper:73 - Scraped offer Senior Java Developer - Remote NEW from https://nofluffjobs.com/job/senior-java-developer-remote-scalo-2
+2025-02-26 22:14:45 INFO  Scraper:73 - Scraped offer Java/Kotlin Developer NEW from https://nofluffjobs.com/job/java-kotlin-developer-jakdojade-remote
+2025-02-26 22:14:45 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+
+2025-02-26 22:14:46 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=java+developer
+2025-02-26 22:14:46 INFO  Scraper:141 - Successfully scraped 0 job offers from https://justjoin.it/with-salary_yes?keyword=java+developer
+
+2025-02-26 22:15:36 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+2025-02-26 22:15:36 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 22:15:36 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 22:15:36 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 22:15:37 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 22:15:37 INFO  Scraper:73 - Scraped offer Senior Fullstack (Angular&Java) Developer NEW from https://nofluffjobs.com/job/senior-fullstack-angular-java-developer-crestt-remote
+2025-02-26 22:15:37 ERROR JobOffersTable:72 - Failed to update the table
+2025-02-26 22:15:37 INFO  Scraper:73 - Scraped offer Senior Java Developer - Remote NEW from https://nofluffjobs.com/job/senior-java-developer-remote-scalo-2
+2025-02-26 22:15:37 INFO  Scraper:73 - Scraped offer Java/Kotlin Developer NEW from https://nofluffjobs.com/job/java-kotlin-developer-jakdojade-remote
+2025-02-26 22:15:37 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27java+developer%27%20
+
+2025-02-26 22:15:39 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=java+developer
+2025-02-26 22:15:39 INFO  Scraper:141 - Successfully scraped 0 job offers from https://justjoin.it/with-salary_yes?keyword=java+developer
+
+2025-02-26 22:16:22 INFO  Scraper:33 - Successfully connected to https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27developer%27%20
+2025-02-26 22:16:22 INFO  Scraper:73 - Scraped offer Java Developer NEW from https://nofluffjobs.com/job/java-developer-tooploox-remote-3
+2025-02-26 22:16:22 INFO  Scraper:73 - Scraped offer Fullstack Developer NEW from https://nofluffjobs.com/job/fullstack-developer-avenga-remote-33
+2025-02-26 22:16:22 INFO  Scraper:73 - Scraped offer Data Analyst / BI developer / Analytics Engineer NEW from https://nofluffjobs.com/job/data-analyst-bi-developer-analytics-engineer-justpoint-remote
+2025-02-26 22:16:23 INFO  Scraper:73 - Scraped offer Senior .NET Developer NEW from https://nofluffjobs.com/job/senior-net-developer-avenga-lodz-5
+2025-02-26 22:16:23 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-2
+2025-02-26 22:16:23 INFO  Scraper:73 - Scraped offer Senior Java Developer NEW from https://nofluffjobs.com/job/senior-java-developer-directio-remote
+2025-02-26 22:16:23 INFO  Scraper:73 - Scraped offer Java/Spark Big Data Developer NEW from https://nofluffjobs.com/job/java-spark-big-data-developer-comscore-via-cc-remote-1
+2025-02-26 22:16:23 INFO  Scraper:85 - Successfully scraped 7 job offers from https://nofluffjobs.com/?page=1&criteria=jobPosition%3D%27developer%27%20
+
+2025-02-26 22:16:26 INFO  Scraper:99 - Successfully connected to  https://justjoin.it/with-salary_yes?keyword=developer
+2025-02-26 22:16:26 INFO  Scraper:141 - Successfully scraped 0 job offers from https://justjoin.it/with-salary_yes?keyword=developer
+
+2025-02-26 22:32:47 ERROR JobOffer:49 - Failed to get mean salary
